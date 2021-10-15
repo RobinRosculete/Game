@@ -1,0 +1,23 @@
+﻿  Color.cpp
+C:\Users\Robin\Desktop\Game\Game\Color.h(28,56): warning C4553: '==': result of expression not used; did you intend '='?
+  Line2D.cpp
+C:\Users\Robin\Desktop\Game\Game\Line2D.cpp(61,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+C:\Users\Robin\Desktop\Game\Game\Color.h(28,56): warning C4553: '==': result of expression not used; did you intend '='?
+  Screen.cpp
+C:\Users\Robin\Desktop\Game\Game\Color.h(28,56): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Robin\Desktop\Game\Game\Screen.cpp(75,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Robin\Desktop\Game\Game\Screen.cpp(75,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Robin\Desktop\Game\Game\Screen.cpp(93,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Robin\Desktop\Game\Game\Screen.cpp(94,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Robin\Desktop\Game\Game\Screen.cpp(95,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Robin\Desktop\Game\Game\Screen.cpp(96,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Robin\Desktop\Game\Game\Screen.cpp(120,9): warning C4552: '+': result of expression not used
+  ScreenBuffer.cpp
+C:\Users\Robin\Desktop\Game\Game\Color.h(28,56): warning C4553: '==': result of expression not used; did you intend '='?
+  Shape.cpp
+  Triangle.cpp
+  Vec2DHelper.cpp
+  Vec2D.cpp
+  Generating Code...
+  Game.vcxproj -> C:\Users\Robin\Desktop\Game\x64\Debug\Game.exe
